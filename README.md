@@ -4,10 +4,8 @@ A full-stack Discussion Thread System with nested comments functionality, simila
 
 ## 🌐 Live Demo
 
-- **Frontend**: [https://your-frontend-app.onrender.com](https://your-frontend-app.onrender.com)
-- **Backend API**: [https://your-backend-app.onrender.com](https://your-backend-app.onrender.com)
-
-> **Note**: Replace the above URLs with your actual Render deployment URLs after deploying.
+- **Frontend**: [https://threadtalk-ct1y.onrender.com)
+- **Backend API**: [https://threadtalk-backend-n4lo.onrender.com)
 
 ## 🚀 Tech Stack
 
