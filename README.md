@@ -2,6 +2,13 @@
 
 A full-stack Discussion Thread System with nested comments functionality, similar to Reddit, GitHub, or Medium.
 
+## 🌐 Live Demo
+
+- **Frontend**: [https://your-frontend-app.onrender.com](https://your-frontend-app.onrender.com)
+- **Backend API**: [https://your-backend-app.onrender.com](https://your-backend-app.onrender.com)
+
+> **Note**: Replace the above URLs with your actual Render deployment URLs after deploying.
+
 ## 🚀 Tech Stack
 
 ### Backend
@@ -16,6 +23,26 @@ A full-stack Discussion Thread System with nested comments functionality, simila
 - **Tailwind CSS** - Utility-first CSS framework
 - **TypeScript** - Type-safe JavaScript
 - **React Router** - Client-side routing
+
+## 📸 Screenshots
+
+### Home Page - Discussion Threads List
+View all discussion posts with a modern dark-themed interface featuring glassmorphism design.
+
+![Home Page](./screenshots/home_page.png)
+
+### Post Detail Page - View Post with Comments
+Read full post content and engage with the comment section. Features nested replies with visual indentation.
+
+The following screenshots belong to the **same Post Detail page** and are shown separately because the page does not fit into a single screenshot and requires scrolling to view all sections:
+
+![Post Detail Page](./screenshots/post_detail_page.png)
+![Post Comment](./screenshots/post_comment.png)
+
+### Create Post Page - Share Your Thoughts
+Create new discussion posts with a clean, user-friendly form interface.
+
+![Create Post Page](./screenshots/create_post_page.png)
 
 ## 📋 Features
 
